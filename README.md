@@ -1,7 +1,7 @@
 - 👋 Oi, Eu sou John Victor
 - 👀 Estou interessado em criar programas para gerenciamento de empresas
 - 🌱 Atualmente sou estudante de Ciência da computação
-- 💞️ Procuro colaborar com desenvolvedores iniciante na linguagem c
+- 💞️ Procuro colaborar com desenvolvedores iniciante na linguagem c,c++,java,html,css,js,node e python
 - 📫 pode falar comigo pelo meu instagram @johnpaz__01
 
 <!---
