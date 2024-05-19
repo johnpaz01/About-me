@@ -1,8 +1,4 @@
-- 👋 Oi, Eu sou John Victor
-- 👀 Estou interessado em criar programas para gerenciamento de empresas
-- 🌱 Atualmente sou estudante de Ciência da computação
-- 💞️ Procuro colaborar com desenvolvedores iniciante na linguagem c, c++, java, html, css, js, node e python
-- 📫 pode falar comigo através do meu email johnpazzz01@gmail.com
+Hey, you there, recruiter or interested party, check out my resume✨
 
 <!---
 johnpaz01/johnpaz01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
